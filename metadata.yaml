@@ -1,0 +1,32 @@
+_repo: Sir-Quixote-of-the-MoorsBeing-some-account-of-an-episode-in-the-life-of-the-Sieur-de-Rohaine_46345
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46345-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: ''
+gutenberg_issued: '2014-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French -- Scotland -- Fiction'
+- !lcsh 'Covenanters -- Scotland -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+title: 'Sir Quixote of the Moors
+
+  Being some account of an episode in the life of the Sieur de Rohaine'
+url: http://www.gutenberg.org/ebooks/46345
